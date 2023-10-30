@@ -1,0 +1,6 @@
+[submodule "extern/llwythwr"]
+	path = extern/llwythwr
+	url = https://github.com/sidaf/llwythwr
+[submodule "extern/deinamig"]
+	path = extern/deinamig
+	url = https://github.com/sidaf/deinamig
