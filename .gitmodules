@@ -4,3 +4,9 @@
 [submodule "extern/deinamig"]
 	path = extern/deinamig
 	url = https://github.com/sidaf/deinamig
+[submodule "extern/lua"]
+	path = extern/lua
+	url = https://github.com/lua/lua/
+[submodule "extern/luajit"]
+	path = extern/luajit
+	url = https://github.com/LuaJIT/LuaJIT/
